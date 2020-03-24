@@ -1,0 +1,8 @@
+*.log
+*.csv
+__pycache__
+requirements.txt
+log/
+model_test_pic/*
+.jpg
+test_file
